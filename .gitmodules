@@ -1,0 +1,9 @@
+[submodule "organizing"]
+	path = organizing
+	url = git@github.com:code-retreat-denver/organizing.git
+[submodule "virtual-machines"]
+	path = virtual-machines
+	url = git@github.com:code-retreat-denver/virtual-machines.git
+[submodule "katas"]
+	path = katas
+	url = git@github.com:code-retreat-denver/katas.git
